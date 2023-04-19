@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Education
+title: 教育
 subtitle:
 
 # Date format for experience
@@ -22,8 +22,8 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: MEng Electronic Engineering
-    company: University X
+  - title: 这是一个测试性文章
+    company: 清华大学
     company_url: ''
     company_logo: org-x
     location: California
