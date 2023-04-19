@@ -10,7 +10,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: ''
+title: '我是一名deepiner，这是我的博客'
 subtitle: ''
 
 content:
@@ -36,7 +36,7 @@ content:
       tag: NLP
 
 design:
-  columns: '20'
+  columns: '1'
   view: masonry
   flip_alt_rows: true
   background: {}
