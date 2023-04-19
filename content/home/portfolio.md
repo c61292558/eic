@@ -36,7 +36,7 @@ content:
       tag: NLP
 
 design:
-  columns: '2'
+  columns: '20'
   view: masonry
   flip_alt_rows: true
   background: {}
