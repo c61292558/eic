@@ -26,7 +26,7 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-    - name: All
+    - name: 全部
       tag: '*'
     - name: 机器学习
       tag: ML
@@ -36,7 +36,7 @@ content:
       tag: NLP
 
 design:
-  columns: '1'
+  columns: '2'
   view: masonry
   flip_alt_rows: true
   background: {}
