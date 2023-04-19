@@ -28,7 +28,7 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
+    - name: 机器学习
       tag: ML
     - name: Computer Vision
       tag: CV
