@@ -30,7 +30,7 @@ content:
       tag: '*'
     - name: 机器学习
       tag: ML
-    - name: Computer Vision
+    - name: 电脑视觉
       tag: CV
     - name: NLP
       tag: NLP
