@@ -4,6 +4,6 @@ summary: Write about your project here...
 tags:
   - ML
 date: 2022-01-01
-#external_link: http://github.com
-url_slides: content/slides/example/index.md
+external_link: slides/example/
+#url_slides: content/slides/example/index.md
 ---
