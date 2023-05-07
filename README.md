@@ -2,7 +2,7 @@
 
 [![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)
 
-The **Hugo Portfolio Template** empowers you to easily create a portfolio website. Make it your own by choosing a color theme and grid layout!
+**Hugo Portfolio 模板**使你能够轻松地创建一个投资组合网站。通过选择一个颜色主题和网格布局，使它成为你自己的网站!
 
 ️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, widget-based Wowchemy page builder**, making every site truly personalized ⭐⭐⭐⭐⭐
 
