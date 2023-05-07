@@ -6,10 +6,8 @@ tags: ['幻灯片']
 categories: [hugo]
 date: '2019-02-05'
 slides:
-  # Choose a theme from https://github.com/hakimel/reveal.js#theming
-  theme: black
-  # Choose a code highlighting style (see Hugo docs on Chroma)
-  #   Light style: github-light. Dark style: dracula (default).
+  
+  theme: black 
   highlight_style: dracula
 ---
 
