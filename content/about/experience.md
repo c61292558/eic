@@ -3,7 +3,7 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
 
-# This file represents a page section.
+# 这个文件代表一个页面部分。
 headless: true
 
 # Order that this section appears on the page.

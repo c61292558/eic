@@ -18,7 +18,7 @@ content:
 
   # Email form provider
   form:
-    provider: vvvv
+    provider: netlify
     formspree:
       id:
     netlify:
