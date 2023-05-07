@@ -5,5 +5,5 @@ authors: []
 tags: ['幻灯片']
 categories: [hugo]
 date: '2019-02-05'
-slides: content/slides/hdp/index.md
+slides: hdp
 ---
