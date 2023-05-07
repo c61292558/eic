@@ -4,6 +4,6 @@ summary: Write about your project here...
 tags:
   - ML
 date: 2022-01-01
-#external_link: slides/example/
-url_slides: slides/hdp/index.md
+external_link: slides/hdp/
+#url_slides: slides/hdp/index.md
 ---
