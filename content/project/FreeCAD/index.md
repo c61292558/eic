@@ -222,7 +222,7 @@ sudo apt install cmake cmake-gui libboost-date-time-dev libboost-dev libboost-fi
 
 ### Older and non-conventional distributions
 
-:tail:
+
 
 ---
 
