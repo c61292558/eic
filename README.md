@@ -25,8 +25,8 @@ The integrated [**Wowchemy**](https://wowchemy.com) website builder and CMS make
 
 ## We ask you, humbly, to support this open source movement
 
-Today we ask you to defend the open source independence of the Wowchemy website builder and themes 🐧
+今天，我们要求您捍卫Wowchemy网站建设者和主题的开源独立性。 🐧
 
-We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
+我们是一个开源运动，依靠您的支持来保持在线和繁荣，但我们99.9%的创造者没有付出，他们只是看了看其他方式。
 
 ### [❤️ Click here to become a GitHub Sponsor, unlocking awesome perks such as _exclusive academic templates and widgets_](https://github.com/sponsors/gcushen)
