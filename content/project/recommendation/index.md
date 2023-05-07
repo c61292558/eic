@@ -4,6 +4,6 @@ summary: Write about your project here...
 tags:
   - ML
 date: 2022-01-01
-external_link: ../content/slides/example/index.md
+external_link: https://deepiner.netlify.app/slides/example/
 #url_slides: slides/example/index.md
 ---
