@@ -69,13 +69,13 @@ www.rebol.com/downloads/v278/rebol-core-278-4-3.tar.gz
 
 安装成功！
 
-====
+===
 
 2019.02.14
 
 进入并运行/usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/gdk-pixbuf-query-loaders 这个可执行文件，貌似警告就取消了，大家可以试一下，反馈给我。
 
-====
+===
 
 有个疑问为什么word里面编辑好的图文直接复制不能粘贴到论坛编辑框里面自动上传生成图片，我一张一张上传超级累。。。。。
 
