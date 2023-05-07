@@ -28,12 +28,12 @@ content:
   filter_button:
     - name: 全部
       tag: '*'
-    - name: 机器学习
-      tag: ML
+    - name: Deepin
+      tag: deepin
     - name: 电脑视觉
       tag: CV
-    - name: NLP
-      tag: NLP
+    - name: 其他
+      tag: Others
 
 design:
   columns: '1'
