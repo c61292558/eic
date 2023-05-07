@@ -1,19 +1,19 @@
 ---
-# An instance of the Experience widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
+# “Experience widget”的一个实例。
+# 文档: https://wowchemy.com/docs/page-builder/
 widget: experience
 
 # This file represents a page section.
 headless: true
 
-# Order that this section appears on the page.
+# 本节出现在页面上的顺序。
 weight: 30
 
 title: 教育
 subtitle:
 
 # Date format for experience
-#   Refer to https://wowchemy.com/docs/customization/#date-format
+#   参考 https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
 
 # Experiences.
