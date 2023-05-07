@@ -3,12 +3,12 @@ name = "Starter Blog"
 
 [light]
   # Primary
-  primary = "#ff62ff"
+  primary = "#2962ff"
 
   # Menu
   menu_primary = "rgb(247, 250, 252)"
   menu_text = "#34495e"
-  menu_text_active = "#2962ff"
+  menu_text_active = "#62ff29"
   menu_title = "#ff0000"
 
   # Home sections
