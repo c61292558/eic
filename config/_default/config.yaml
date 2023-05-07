@@ -25,7 +25,7 @@ cascade:
 ############################
 
 defaultContentLanguage: en
-hasCJKLanguage: false
+hasCJKLanguage: true
 defaultContentLanguageInSubdir: false
 removePathAccents: true
 
@@ -44,7 +44,7 @@ module:
 ############################
 
 enableGitInfo: false
-summaryLength: 5
+summaryLength: 30
 paginate: 10
 enableEmoji: true
 enableRobotsTXT: true
