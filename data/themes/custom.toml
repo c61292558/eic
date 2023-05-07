@@ -7,9 +7,9 @@ name = "Starter Blog"
 
   # Menu
   menu_primary = "rgb(247, 250, 252)"
-  menu_text = "#ff0000"
+  menu_text = "#000000"      #菜单文字颜色
   menu_text_active = "#62ff29"
-  menu_title = "#ff0000"
+  menu_title = "#0000ff"
 
   # Home sections
   home_section_odd = "rgb(247, 250, 252)"
