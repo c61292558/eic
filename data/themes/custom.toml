@@ -1,4 +1,4 @@
-# Essentially Minimal theme but with constant home section bg color.
+# Essentially Minimal theme but with constant home section bg color.本质上是Minimal主题，但有恒定的主页部分的bg颜色。
 name = "Starter Blog"
 
 [light]
@@ -7,7 +7,7 @@ name = "Starter Blog"
 
   # Menu
   menu_primary = "rgb(247, 250, 252)"
-  menu_text = "#34495e"
+  menu_text = "#ff0000"
   menu_text_active = "#62ff29"
   menu_title = "#ff0000"
 
