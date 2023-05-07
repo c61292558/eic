@@ -11,9 +11,9 @@ slides:
   highlight_style: dracula
 ---
 
-# Create slides in Markdown with Wowchemy
+# 幻灯片演示文章
 
-[Wowchemy](https://wowchemy.com/) | [Documentation](https://wowchemy.com/docs/content/slides/)
+[Wowchemy](https://wowchemy.com/) | [文档](https://wowchemy.com/docs/content/slides/)
 
 ---
 
@@ -26,7 +26,7 @@ slides:
 
 ---
 
-## Controls
+## 控制
 
 - Next: `Right Arrow` or `Space`
 - Previous: `Left Arrow`
@@ -40,11 +40,11 @@ slides:
 
 ---
 
-## Code Highlighting
+## 代码高亮
 
-Inline code: `variable`
+内联代码: `variable`
 
-Code block:
+代码块:
 
 ```python
 porridge = "blueberry"
@@ -54,7 +54,7 @@ if porridge == "blueberry":
 
 ---
 
-## Math
+## 数学公式
 
 In-line math: $x + y = z$
 
@@ -66,7 +66,7 @@ $$
 
 ---
 
-## Fragments
+## 碎片
 
 Make content appear incrementally
 
