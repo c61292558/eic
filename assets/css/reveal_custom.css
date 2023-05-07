@@ -2,4 +2,20 @@
 .reveal section h2,
 .reveal section h3 {
     color: navy;
+    margin: 300px;
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+    border-radius: 50%;
+    animation: light 2s ease-in-out infinite alternate;
+}
+
+@keyframes light {
+    from {
+        box-shadow: 0px 0px 4px #f00;
+    }
+
+    to {
+        box-shadow: 0px 0px 16px #f00;
+    }
 }
