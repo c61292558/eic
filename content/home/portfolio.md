@@ -30,8 +30,10 @@ content:
       tag: '*'
     - name: Deepin
       tag: deepin
-    - name: 电脑视觉
-      tag: CV
+    - name: GUI
+      tag: GUI
+    - name: CAD
+      tag: CAD 
     - name: 其他
       tag: Others
 
