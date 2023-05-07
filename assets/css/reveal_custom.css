@@ -2,7 +2,7 @@
 .reveal section h2,
 .reveal section h3 {
     color: navy;
-    margin: 300px;
+    /* margin: 300px; */
     width: 100px;
     height: 100px;
     margin: 20px;
