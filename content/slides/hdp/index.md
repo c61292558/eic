@@ -17,12 +17,12 @@ slides:
 
 ---
 
-## Features
+## 特点
 
-- Efficiently write slides in Markdown
-- 3-in-1: Create, Present, and Publish your slides
-- Supports speaker notes
-- Mobile friendly slides
+- 高效地用Markdown编写幻灯片
+- 3合1：创建、展示和发布你的幻灯片
+- 支持演讲者注释
+- 对移动端平台友好的幻灯片
 
 ---
 
