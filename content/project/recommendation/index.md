@@ -5,5 +5,5 @@ tags:
   - ML
 date: 2022-01-01
 #external_link: http://github.com
-slides: example
+url_slides: content/slides/example/index.md
 ---
