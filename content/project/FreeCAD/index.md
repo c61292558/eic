@@ -1,6 +1,6 @@
 ---
 title: FreeCAD官网相关文档翻译-1_Compile_on_Linux
-summary: Write about your project here...
+summary: FreeCAD官网相关文档翻译第一章节
 tags:
   - Deepin
   - CAD
