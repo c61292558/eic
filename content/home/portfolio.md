@@ -39,7 +39,7 @@ content:
 
 design:
   columns: '1'
-  view: carousel #除了showcase，还有basic（好丑），carousel（以轮播的形式展示内容），mosaic（以瀑布流的形式展示内容）
+  view: mosaic #除了showcase，还有basic（好丑），carousel（以轮播的形式展示内容），mosaic（以瀑布流的形式展示内容）
   flip_alt_rows: true
   background: {}
   spacing: {padding: [0, 0, 0, 0]}
