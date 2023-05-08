@@ -4,9 +4,17 @@
     font-weight: bolder;
 }
 
-.section-subheading.article-title.mb-0.mt-0 a:hover {
+.section-subheading.article-title.mb-0.mt-0 a{
     text-decoration: none;
-    background:linear-gradient(to right,#ec695c,#61c454) ;
+    background:linear-gradient(to right,#ec695c,#61c454) no-repeat right bottom;
+    background-size: 0px 2px;
+    // background: ;
+    transition: background-size 1300ms;
+}
+.section-subheading.article-title.mb-0.mt-0 a:hover {
+    background-position-x: left;
+    background-size: 100% 2px;
+    // background: ;
 
 }
 
