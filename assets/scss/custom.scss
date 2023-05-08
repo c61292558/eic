@@ -52,7 +52,8 @@ header nav.navbar {
     height: 0px; //清除默认高度样式
     min-height: 40px;
     background: #F2F2F2;
-    box-shadow: 1px 6px 20px 1px rgb(0 0 0 / 50%);
+    box-shadow: none;
+    box-shadow: 1px 6px 20px 1px rgb(0 0 0 / 50%)!important;
 }
 
 // div.dropdown-menu{
