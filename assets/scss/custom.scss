@@ -9,7 +9,7 @@
     background: linear-gradient(to right, #ec695c, #61c454) no-repeat right bottom;
     background-size: 0px 3px;
     // background: ;
-    transition: background-size 700ms cubic-bezier(0.68, -0.55, 0.27, 1.55);
+    transition: background-size 500ms cubic-bezier(0.65, 0.05, 0.36, 1);
     // transition-timing-function: cubic-bezier(0.68, -0.55, 0.27, 1.55);
 }
 
@@ -49,6 +49,7 @@ code {
 }
 
 header nav.navbar {
+    height: 0px; //清除默认高度样式
     min-height: 40px;
-    background: #e1e1e1;
+    background: #F2F2F2;
 }
