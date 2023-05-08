@@ -6,5 +6,5 @@ tags:
 date: 2023-05-18
 #external_link: https://bbs.deepin.org/zh/post/174674
 ---
-# 插入图片
-<img src="moveRust-lang_看图王.jpg" alt="R-lang" style="zoom:33%;" />
+<!-- 插入图片
+<img src="moveRust-lang_看图王.jpg" alt="R-lang" style="zoom:33%;" /> -->
