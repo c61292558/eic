@@ -1,11 +1,19 @@
 ---
-title: FreeCAD官网相关文档翻译-1_Compile_on_Linux
-summary: FreeCAD官网相关文档翻译第一章节
+title: hugo wowchemy研究
+summary: 
 tags:
-  - Deepin
-  - CAD
+  - hugo
 date: 2022-10-21
 #external_link: https://bbs.deepin.org/zh/post/244550
 ---
-# 插入图片
-<img src="moveRust-lang_看图王.jpg" alt="R-lang" style="zoom:33%;" />
+
+# 关于主页的view显示设置参数字段
+## showcase
+<img src="showcase.png"  style="zoom:33%;" />
+
+
+## basic
+
+## carousel
+
+## mosaic
