@@ -63,7 +63,10 @@ www.rebol.com/downloads/v278/rebol-core-278-4-3.tar.gz
 
 出现一个警告，什么意思我也不是很清楚，有知道的可以告诉我一下，先来测试一下是否安装成功
 
-输入`view [button "hello world "]`
+输入
+```red
+view [button "hello world "]
+```
 
 ![img](https://storage.deepin.org/forum/201902/12/230405jsjzzlhj8wiicttl.jpg)
 
