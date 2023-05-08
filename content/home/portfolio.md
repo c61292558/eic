@@ -1,5 +1,5 @@
 ---
-# A section created with the Portfolio widget.
+# 一个用Portfolio widget创建的页面集。
 # This section displays content from `content/project/`.
 # 查阅 https://wowchemy.com/docs/widget/portfolio/
 widget: portfolio
@@ -39,7 +39,7 @@ content:
 
 design:
   columns: '1'
-  view: basic
+  view: showcase #除了showcase，还有basic（好丑），carousel（以轮播的形式展示内容），mosaic（以瀑布流的形式展示内容）
   flip_alt_rows: true
   background: {}
   spacing: {padding: [0, 0, 0, 0]}
