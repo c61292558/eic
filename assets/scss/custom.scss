@@ -9,7 +9,7 @@
     background:linear-gradient(to right,#ec695c,#61c454) no-repeat right bottom;
     background-size: 0px 4px;
     // background: ;
-    transition: background-size 700ms;
+    transition: background-size 700ms ease-in;
 }
 .section-subheading.article-title.mb-0.mt-0 a:hover {
     background-position-x: left;
@@ -26,4 +26,8 @@ div.highlight .btn.btn-primary.btn-copy-code {
 .highlight code {
     // background: #E1E1DF;
     background-color: #c1c118;
+}
+.article.article-project .featured-image{
+    width: 50%;
+
 }
