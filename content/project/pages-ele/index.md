@@ -4,7 +4,7 @@ summary:
 tags:
   - hugo
   - wowchemy
-date: 2023-05-9
+date: 2023-05-09
 #external_link:
 ---
 ## wowchemy上的页面元素Page Elements：Markdown, LaTeX, and Shortcodes（短代码）。
