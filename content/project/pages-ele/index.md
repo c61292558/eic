@@ -147,18 +147,3 @@ D
 
 **您还可以在除Widget Pages(主页)之外的任何页面的页眉中创建按钮链接。**
 
-#### 链接到文件
-
----
-
-**您可以在除Widget Pages(主页)之外的任何页面的页头中创建指向文件的按钮链接。**
-
-否则，要链接到内容主体中的文件，例如PDF，请将该文件放在`static/uploads/`文件夹中，然后使用以下形式链接到该文件:
-
-<pre>
-{{% staticref "uploads/cv.pdf" "newtab" %}}Download my CV{{% /staticref %}}
-</pre>
-
-{{% staticref "uploads/cv.pdf" "newtab" %}}Download my CV{{% /staticref %}}
-
-staticref的可选参数"newtab"将导致链接在新选项卡中打开。
