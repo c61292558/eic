@@ -184,27 +184,7 @@ I have more [^1] to say.
 I have more [^1] to say.
 [^1]: 脚注例子.
 
-#### 图形
 
----
-
-要交叉引用一个图形，请为其提供ID，例如:
-
-```
- {{< figure src="image.jpg" id="wowchemy" >}}.
-```
-
-现在可以通过表单中的链接交叉引用该图形
-
-```
-[A Figure](#figure-wowchemy).
-```
-
-#### 标签和目录
-
----
-
-使用`{{< list tags >}}`来提供链接标签的列表，或者使用`{{< list categories >}}`来提供链接类别的列表。
 
 
 
