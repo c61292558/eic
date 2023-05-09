@@ -17,11 +17,14 @@ date: 2023-05-09
 
 ---
 
-```markdown
+```
 ## Heading 2
 ### Heading 3
 #### Heading 4
 ```
+## Heading 2
+### Heading 3
+#### Heading 4
 
 #### 强调，粗体，斜体，删除线
 
@@ -69,9 +72,9 @@ Red colored text
 
 ---
 
-```
+<pre>
 This is a {{< hl >}}highlighted quote{{< /hl >}}.
-```
+</pre>
 
 This is a {{< hl >}}highlighted quote{{< /hl >}}.
 #### 无序列表
