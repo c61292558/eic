@@ -130,12 +130,12 @@ D
 [ Scroll down to a page section with heading *hugo wowchemy研究* ](#hugo wowchemy研究)
 </pre>
 
-[I'm an external link](https://www.baidu.com)
-[A post]({{ < relref "/post/freecad" > }})
-[A publication]({{ < relref "/publication/my-page-name" > }})
-[A project]({{ < relref "/project/freecad/" > }})
-[A relative link from one post to another post]({{ < relref "../my-page-name" > }})
-[ Scroll down to a page section with heading *hugo wowchemy研究* ](#hugo wowchemy研究)
+[I'm an external link](https://www.baidu.com)  
+[A post]({{ < relref "/post/freecad" > }})  
+[A publication]({{ < relref "/publication/my-page-name" > }})  
+[A project]({{ < relref "/project/freecad/" > }})  
+[A relative link from one post to another post]({{ < relref "../my-page-name" > }})  
+[ Scroll down to a page section with heading *hugo wowchemy研究* ](#hugo wowchemy研究)  
 
 
 #### 链接到文件
@@ -164,8 +164,6 @@ staticref的可选参数"newtab"将导致链接在新选项卡中打开。
 {{  < cite page="/publication/preprint" view="citation" >  }}
 ```
 
-
-
 其中，视图对应于整个Wowchemy中使用的可用列表视图之一:
 
 1. Stream
@@ -180,11 +178,11 @@ staticref的可选参数"newtab"将导致链接在新选项卡中打开。
 
 目录可以帮助用户浏览冗长的页面。
 
-粘贴这个`{{< toc >}}`短代码无论在页面中的任何位置。
+粘贴这个`{{ < toc >}}`短代码无论在页面中的任何位置。
 
 您可能还希望考虑使用[*book* layout](https://wowchemy.com/docs/content/docs/) 布局，它在大屏幕的右侧栏中显示内置的目录。
 
-在使用book layout时，您可能仍然希望添加一个页内目录，该目录仅在隐藏右侧栏时显示。你可以使用```{{< toc hide_on="xl" >}}```
+在使用book layout时，您可能仍然希望添加一个页内目录，该目录仅在隐藏右侧栏时显示。你可以使用```{{ < toc hide_on="xl" >}}```  
 
 #### 脚注
 
