@@ -69,8 +69,55 @@ Red colored text
 
 ---
 
-<pre>
+```
 This is a {{< hl >}}highlighted quote{{< /hl >}}.
-</pre>
+```
 
 This is a {{< hl >}}highlighted quote{{< /hl >}}.
+#### 无序列表
+
+---
+
+<pre>
+- First item
+  - A sub-item
+- Another item
+</pre>
+
+- First item
+  - A sub-item
+- Another item
+
+#### Todo代办清单
+
+---
+
+通过使用标准Markdown语法，可以在Wowchemy中编写待办事项列表
+
+<pre>
+- [x] Write math example
+  - [x] Write diagram example
+- [ ] Do something else
+</pre>
+
+- [x] Write math example
+  - [x] Write diagram example
+- [ ] Do something else
+
+#### 可折叠列表（特有）
+
+---
+
+向页面添加切换列表，以便在单击切换按钮后显示文本，例如问题的答案。
+
+对于常见问题，剧透，或隐藏答案时，教学在线课程是很有用处的。
+
+<pre>
+{{< spoiler text="Click to view the spoiler" >}}
+You found me!
+{{< /spoiler >}}
+</pre>
+
+{{< spoiler text="Click to view the spoiler" >}}
+You found me!
+{{< /spoiler >}}
