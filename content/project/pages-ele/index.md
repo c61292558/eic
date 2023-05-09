@@ -236,7 +236,7 @@ I have more [^1] to say.
 {{< cta cta_text="Do something" cta_link="/" cta_new_tab="false" >}}
 ```
 
-{{< cta cta_text="Do something" cta_link="/" cta_new_tab="false" >}}
+<!-- {{< cta cta_text="Do something" cta_link="/" cta_new_tab="false" >}} -->
 
 示例:链接到另一个动作的CTA按钮:
 
@@ -250,7 +250,7 @@ I have more [^1] to say.
 
 要提到某人，键入{{% mention "username" %}}，其中username对应于Wowchemy中的用户帐户。
 
-{{% mention "username" %}}
+{{% mention "c61292558@163.com" %}}
 
 #### 列出子页面
 
