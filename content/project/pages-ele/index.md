@@ -107,17 +107,13 @@ This is a {{< hl >}}highlighted quote{{< /hl >}}.
 #### 可折叠列表（特有）
 
 ---
-
 向页面添加切换列表，以便在单击切换按钮后显示文本，例如问题的答案。
-
 对于常见问题，剧透，或隐藏答案时，教学在线课程是很有用处的。
-
 ```
 {{< spoiler text="Click to view the spoiler" >}}
 You found me!
 {{< /spoiler >}}
 ```
-
 {{< spoiler text="Click to view the spoiler" >}}
 You found me!
 A
@@ -126,11 +122,14 @@ C
 D
 {{< /spoiler >}}
 #### 链接到页面
-
 ---
 
-
-
+/* [I'm an external link](https://www.baidu.com)
+[A post]({{< relref "/post/freecad" >}})
+[A publication]({{< relref "/publication/my-page-name" >}})
+[A project]({{< relref "/project/freecad/" >}})
+[A relative link from one post to another post]({{< relref "../my-page-name" >}})
+[Scroll down to a page section with heading *hugo wowchemy研究*](#hugo wowchemy研究) */
 
 
 **您还可以在除Widget Pages(主页)之外的任何页面的页眉中创建按钮链接。**
