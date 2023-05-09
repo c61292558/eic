@@ -128,7 +128,7 @@ D
 #### 链接到页面
 
 ---
-```
+```html
 [I'm an external link](https://www.baidu.com)
 [A post]({{< relref "/post/freecad" >}})
 [A publication]({{< relref "/publication/my-page-name" >}})
