@@ -150,7 +150,7 @@ staticref的可选参数"newtab"将导致链接在新选项卡中打开。
 {{< cite page="/publication/preprint" view="citation" >}}
 ```
 
- {{< cite page="/publication/preprint" view="citation" >}}
+
 
 其中，视图对应于整个Wowchemy中使用的可用列表视图之一:
 
