@@ -200,7 +200,11 @@ I have more [^1] to say.
 ```
 [A Figure](#figure-wowchemy).
 ```
+#### 标签和目录
 
+---
+
+使用`{{< list tags >}}`来提供链接标签的列表，或者使用`{{< list categories >}}`来提供链接类别的列表。
 
 
 
