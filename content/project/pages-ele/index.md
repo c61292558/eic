@@ -204,7 +204,11 @@ I have more [^1] to say.
 
 ---
 
-使用`{{< list tags >}}`来提供链接标签的列表，或者使用`{{< list categories >}}`来提供链接类别的列表。
+<!-- 使用`{{< list tags >}}`来提供链接标签的列表，或者使用`{{< list categories >}}`来提供链接类别的列表。 -->
 
+#### 文字-动作按钮
 
+---
+
+使用**CTA**短代码**创建按钮和调用操作**(CTA：Call-to-Action)。
 
