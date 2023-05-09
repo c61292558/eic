@@ -8,3 +8,7 @@ date: 2023-04-18
 ---
 # 插入图片
 <img src="moveRust-lang_看图王.jpg" alt="R-lang" style="zoom:33%;" />
+{{< figure src="moveRust-lang_看图王.jpg" id="wowchemy" >}}
+
+尝试本页面交叉引用：`[A Figure](#figure-wowchemy).`
+[A Figure](#figure-wowchemy)
