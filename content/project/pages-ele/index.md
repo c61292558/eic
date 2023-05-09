@@ -192,6 +192,7 @@ I have more [^1] to say.
 
 ```
  {{< figure src="image.jpg" id="wowchemy" >}}.
+ {style="zoom:33%"}
 ```
 
 现在可以通过表单中的链接交叉引用该图形
