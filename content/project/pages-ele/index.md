@@ -191,8 +191,8 @@ I have more [^1] to say.
 要交叉引用一个图形，请为其提供ID，例如:
 
 ```
- {{< figure src="image.jpg" id="wowchemy" >}}.
- {style="zoom:33%"}
+ {{< figure src="image.jpg" id="wowchemy" style="zoom:33%">}}.
+ 
 ```
 
 现在可以通过表单中的链接交叉引用该图形
