@@ -147,7 +147,7 @@ staticref的可选参数"newtab"将导致链接在新选项卡中打开。
 要引用一个页面或出版物，您可以使用引用短代码，引用您创建的文件夹和页面名称:
 
 ```
-{{< cite page="/publication/preprint" view="citation" >}}
+{{  < cite page="/publication/preprint" view="citation" >  }}
 ```
 
 
