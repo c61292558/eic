@@ -124,12 +124,12 @@ D
 #### 链接到页面
 ---
 
-/* [I'm an external link](https://www.baidu.com)
-[A post]({{< relref "/post/freecad" >}})
-[A publication]({{< relref "/publication/my-page-name" >}})
-[A project]({{< relref "/project/freecad/" >}})
-[A relative link from one post to another post]({{< relref "../my-page-name" >}})
-[Scroll down to a page section with heading *hugo wowchemy研究*](#hugo wowchemy研究) */
+ [I'm an external link](https://www.baidu.com)
+`[A post]({{< relref "/post/freecad" >}})`
+`[A publication]({{< relref "/publication/my-page-name" >}})`
+`[A project]({{< relref "/project/freecad/" >}})`
+`[A relative link from one post to another post]({{< relref "../my-page-name" >}})`
+`[Scroll down to a page section with heading *hugo wowchemy研究*](#hugo wowchemy研究) `
 
 
 **您还可以在除Widget Pages(主页)之外的任何页面的页眉中创建按钮链接。**
