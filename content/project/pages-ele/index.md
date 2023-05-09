@@ -35,6 +35,42 @@ _underscores_
 </pre>
 
 _underscores_
+
 **asterisks**
+
 **asterisks and _underscores_**
+
 ~~two tildes~~
+#### 文本颜色（特有）
+
+---
+
+将样式为`{style="color: red"}`的HTML color属性添加到Markdown块后的行。
+
+<pre>
+Red colored text
+{style="color: red"}
+</pre>
+
+Red colored text
+{style="color: red"}
+
+#### 区块引用
+
+---
+
+<pre>
+> This is a blockquote.
+</pre>
+
+> This is a blockquote.
+
+#### 高亮引用（特有）
+
+---
+
+<pre>
+This is a {{< hl >}}highlighted quote{{< /hl >}}.
+</pre>
+
+This is a {{< hl >}}highlighted quote{{< /hl >}}.
