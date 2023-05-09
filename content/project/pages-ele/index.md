@@ -191,7 +191,7 @@ I have more [^1] to say.
 要交叉引用一个图形，请为其提供ID，例如:
 
 ```
- {{< figure src="image.jpg" id="wowchemy" style="zoom:33%">}}.
+ {{ < figure src="image.jpg" id="wowchemy" style="zoom:33%"> }}.
  
 ```
 
@@ -203,9 +203,9 @@ I have more [^1] to say.
 #### 标签和目录
 
 ---
-
-<!-- 使用`{ { < list tags > } }`来提供链接标签的列表，或者使用`{ { < list categories > } }`来提供链接类别的列表。 -->
-
+<pre>
+ 使用`{ { < list tags > } }`来提供链接标签的列表，或者使用`{ { < list categories > } }`来提供链接类别的列表。 
+</pre>
 #### 文字-动作按钮
 
 ---
