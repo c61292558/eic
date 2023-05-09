@@ -7,7 +7,7 @@ tags:
 date: 2023-05-09
 #external_link:
 ---
-## wowchemy上的页面元素Page Elements：Markdown, LaTeX, and Shortcodes（短代码）。
+<!-- ## wowchemy上的页面元素Page Elements：Markdown, LaTeX, and Shortcodes（短代码）。
 
 可以使用**Markdown**、LaTeX math和**Shortcodes**在Wowchemy中编写丰富的内容。
 
@@ -271,4 +271,4 @@ I have more [^1] to say.
 ```
 ![screen reader text](image.jpg "caption")
 ```
-
+ -->
