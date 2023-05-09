@@ -170,7 +170,7 @@ staticref的可选参数"newtab"将导致链接在新选项卡中打开。
 
 您可能还希望考虑使用[*book* layout](https://wowchemy.com/docs/content/docs/) 布局，它在大屏幕的右侧栏中显示内置的目录。
 
-在使用book layout时，您可能仍然希望添加一个页内目录，该目录仅在隐藏右侧栏时显示。你可以使用`{{< toc hide_on="xl" >}}`
+在使用book layout时，您可能仍然希望添加一个页内目录，该目录仅在隐藏右侧栏时显示。你可以使用```{{< toc hide_on="xl" >}}```
 
 #### 脚注
 
@@ -184,6 +184,21 @@ I have more [^1] to say.
 I have more [^1] to say.
 [^1]: 脚注例子.
 
+#### 图形
+
+---
+
+要交叉引用一个图形，请为其提供ID，例如:
+
+```
+ {{< figure src="image.jpg" id="wowchemy" >}}.
+```
+
+现在可以通过表单中的链接交叉引用该图形
+
+```
+[A Figure](#figure-wowchemy).
+```
 
 
 
