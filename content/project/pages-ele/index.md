@@ -160,7 +160,51 @@ staticref的可选参数"newtab"将导致链接在新选项卡中打开。
 4. Citation - 一个传统的学术引文, 通过在`params.yaml` 中设置`citation_style` 
 
 如果你不指定视图，则默认为Compact精简视图。
+#### 内容目录
 
+---
+
+目录可以帮助用户浏览冗长的页面。
+
+粘贴这个`{{< toc >}}`短代码无论在页面中的任何位置。
+
+您可能还希望考虑使用[*book* layout](https://wowchemy.com/docs/content/docs/) 布局，它在大屏幕的右侧栏中显示内置的目录。
+
+在使用book layout时，您可能仍然希望添加一个页内目录，该目录仅在隐藏右侧栏时显示。你可以使用`{{< toc hide_on="xl" >}}`
+
+#### 脚注
+
+---
+
+<pre>
+I have more [^1] to say.
+[^1]: Footnote example.
+</pre>
+
+I have more [^1] to say.
+[^1]: 脚注例子.
+
+#### 图形
+
+---
+
+要交叉引用一个图形，请为其提供ID，例如:
+
+```
+ {{< figure src="image.jpg" id="wowchemy" >}}.
+```
+
+现在可以通过表单中的链接交叉引用该图形
+
+```
+[A Figure](#figure-wowchemy).
+```
+
+#### 标签和目录
+
+---
+
+使用`{{< list tags >}}`来提供链接标签的列表，或者使用`{{< list categories >}}`来提供链接类别的列表。
 
 
 
