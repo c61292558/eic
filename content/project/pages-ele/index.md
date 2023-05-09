@@ -256,7 +256,7 @@ I have more [^1] to say.
 
 ---
 
-要列出子页面，例如列出book页面集中的book章节，请使用{{< list children >}}。
+要列出子页面，例如列出book页面集中的book章节，请使用`{{< list children >}}`。
 
 #### 单个图像
 
