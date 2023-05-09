@@ -138,14 +138,28 @@ D
 
 {{% staticref "uploads/cv.pdf" "newtab" %}}Download my CV{{% /staticref %}}
 
-<!-- staticref的可选参数"newtab"将导致链接在新选项卡中打开。 -->
+staticref的可选参数"newtab"将导致链接在新选项卡中打开。
 
-<!-- 
+#### 引用出版物
 
-[A post]({{< relref "/post/freecad" >}})
+---
 
+要引用一个页面或出版物，您可以使用引用短代码，引用您创建的文件夹和页面名称:
 
--->
+```
+{{< cite page="/publication/preprint" view="citation" >}}
+```
+
+ {{< cite page="/publication/preprint" view="citation" >}}
+
+其中，视图对应于整个Wowchemy中使用的可用列表视图之一:
+
+1. Stream
+2. Compact
+3. Card
+4. Citation - 一个传统的学术引文, 通过在`params.yaml` 中设置`citation_style` 
+
+如果你不指定视图，则默认为Compact精简视图。
 
 
 
