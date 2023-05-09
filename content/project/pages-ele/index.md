@@ -110,18 +110,32 @@ This is a {{< hl >}}highlighted quote{{< /hl >}}.
 向页面添加切换列表，以便在单击切换按钮后显示文本，例如问题的答案。
 对于常见问题，剧透，或隐藏答案时，教学在线课程是很有用处的。
 ```
-{{< spoiler text="Click to view the spoiler" >}}
+{{ < spoiler text="Click to view the spoiler" >}}//自行删除空格
 You found me!
-{{< /spoiler >}}
+{{ < /spoiler >}}
 ```
 {{< spoiler text="Click to view the spoiler" >}}
-You found me!
-A
-B
-C
-D
+You found me!  
+A  
+B  
+C  
+D  
 {{< /spoiler >}}
+<pre>
+[I'm an external link](https://www.baidu.com)
+[A post]({{ < relref "/post/freecad" > }})
+[A publication]({{ < relref "/publication/my-page-name" > }})
+[A project]({{ < relref "/project/freecad/" > }})
+[A relative link from one post to another post]({{ < relref "../my-page-name" > }})
+[ Scroll down to a page section with heading *hugo wowchemy研究* ](#hugo wowchemy研究)
+</pre>
 
+[I'm an external link](https://www.baidu.com)
+[A post]({{ < relref "/post/freecad" > }})
+[A publication]({{ < relref "/publication/my-page-name" > }})
+[A project]({{ < relref "/project/freecad/" > }})
+[A relative link from one post to another post]({{ < relref "../my-page-name" > }})
+[ Scroll down to a page section with heading *hugo wowchemy研究* ](#hugo wowchemy研究)
 
 
 #### 链接到文件
@@ -204,7 +218,8 @@ I have more [^1] to say.
 
 ---
 <pre>
- 使用`{ { < list tags > } }`来提供链接标签的列表，或者使用`{ { < list categories > } }`来提供链接类别的列表。 
+ 使用`{{ < list tags > }}`来提供链接标签的列表，
+ 或者使用`{{ < list categories > }}`来提供链接类别的列表。 
 </pre>
 #### 文字-动作按钮
 
