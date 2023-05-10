@@ -1,5 +1,5 @@
 ---
-title: 尝试在deepin os 上面安装使用Rust语
+title: 尝试在deepin os 上面安装使用Rust语言
 summary: 本文基于red在2023-02时的版本，不确定是否适用于后续版本
 tags:
   - deepin
