@@ -20,8 +20,12 @@ date_format: Jan 2006
 #   Add/remove as many `experience` items below as you like.
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
-#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.用YAML的' |2- '多行前缀开始多行描述。
 experience:
+  - title: 这是一个测试性文章
+    company: 清华大学
+    company_url: ''
+    company_logo: org-x
   - title: 这是一个测试性文章
     company: 清华大学
     company_url: ''
@@ -34,14 +38,14 @@ experience:
         * Basketball team
         * DJ club
 
-  - title: BEng Electronic Engineering
+  - title: 网站还在建设中
     company: University X
     company_url: ''
     company_logo: org-x
     location: California
     date_start: '2016-01-01'
     date_end: '2020-12-31'
-    description: My dissertation was on X
+    description: 我的论文是关于deepiner的
 
 design:
   columns: '1'
