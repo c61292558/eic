@@ -26,6 +26,14 @@ experience:
     company: 清华大学
     company_url: ''
     company_logo: org-x
+    location: California
+    date_start: '2021-01-01'
+    date_end: '2022-01-01'
+    description: |2-
+        * 鹰眼
+        * 蚁人
+        * 钢铁侠
+
   - title: 这是一个测试性文章
     company: 清华大学
     company_url: ''
@@ -48,5 +56,5 @@ experience:
     description: 我的论文是关于deepiner的
 
 design:
-  columns: '1'
+  columns: '2'
 ---
