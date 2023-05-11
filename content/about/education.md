@@ -56,5 +56,5 @@ experience:
     description: 我的论文是关于deepiner的
 
 design:
-  columns: '2'
+  columns: '3'
 ---
